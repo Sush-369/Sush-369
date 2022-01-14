@@ -1,17 +1,17 @@
-### Hi there, I am FALEX <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Hi there, I am Sushmita <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/falex-soj-920a54179">
-  <img align="left" alt="Falex's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/sushmitasawant/">
+  <img align="left" alt="Sushmita's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/falex55">
-  <img align="left" alt="Falex's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/Sush-369">
+  <img align="left" alt="Sushmita's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
 
-## Data Science Enthusiast | Machine Learning | Python Programmer
+## Data Analyst | Power-BI | SQL | Python |
 
-- 🌱 I’m Data Science Learner
-- 🔭 Currently working on ML Model Development and Deployment, Data Analysis, Web Scraping, Deep Learning
+- 🌱 I’m BI Developer
+- 🔭 Currently working on Data Analytics and Business Intelligence Tools, Data Analysis, Web Scraping
 <br />
 <!--
 ### Technologies Worked on :
@@ -45,8 +45,8 @@
 </a>
 -->
 
-[![Falex's github stats](https://github-readme-stats.vercel.app/api?username=falex55&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/falex55/github-readme-stats)
+[![Sushmita's github stats](https://github-readme-stats.vercel.app/api?username=Sush-369&count_private=true&show_icons=true&theme=merko&hide_rank=false)](https://github.com/Sush-369/github-readme-stats)
 
 <br />
 
-[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=falex55)](https://github.com/falex55/github-readme-stats)
+[![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Sush-369)](https://github.com/Sush-369/github-readme-stats)
