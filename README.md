@@ -8,7 +8,7 @@
 </a>
 <br />
 
-## Data Analyst | Power-BI | SQL | Python |
+## Data Analyst | Azure | Power-BI | SQL | Python |
 
 - 🌱 I’m BI Developer
 - 🔭 Currently working on Data Analytics and Business Intelligence Tools, Data Analysis, Web Scraping
