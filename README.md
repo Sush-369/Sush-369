@@ -8,7 +8,7 @@
 </a>
 <br />
 
-## Data Analysis | Azure | Power-BI | SQL | Python |
+## Business Intelligence | Data Analytics | Power-BI | Tableau | SQL Server | Microsoft Azure | Python | Data Warehousing| ETL |
 
 - 🌱 I’m BI Developer
 - 🔭 Currently working on Data Analysis and Business Intelligence, Well verse in Power BI, Tableau, SSMS, Azure Data Factory, Python
