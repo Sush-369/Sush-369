@@ -11,7 +11,7 @@
 ## Data Analysis | Azure | Power-BI | SQL | Python |
 
 - 🌱 I’m BI Developer
-- 🔭 Currently working on Data Analysis and Business Intelligence Tools, Azure Data Factory, Web Scraping
+- 🔭 Currently working on Data Analysis and Business Intelligence, Well verse in Power BI, Tableau, SSMS, Azure Data Factory, Python
 <br />
 <!--
 ### Technologies Worked on :
